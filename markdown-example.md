@@ -38,5 +38,5 @@ The actual numbering doesn't matter:
 
 ----
 
-## This is content created by Pricessless Bytes ##
+## This is content created by Priceless Bytes ##
 Test Lab Assignment Git Example for Week 1
